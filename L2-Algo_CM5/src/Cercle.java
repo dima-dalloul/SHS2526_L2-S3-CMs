@@ -1,3 +1,5 @@
+import packagePoint.Point;
+
 class Cercle {
     Point centre;
     int rayon;
