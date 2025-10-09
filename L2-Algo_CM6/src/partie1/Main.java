@@ -15,7 +15,7 @@ public class Main {
         // Méthode translate de la classe mère
         p3d.translate(7, 8);
 
-        Personne p = new Personne("Lecornu", "Sébastien");
+        Personne p = new Personne("Doe", "Joe");
         //p.mangerBU();
     }
 }
